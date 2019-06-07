@@ -8,3 +8,5 @@ The content in the repository is being provided as is and we do not offer any ki
 Note: I liked the optimizations in Clear Linux and hope to continue packaging. 
 
 Please let me know if something needs to be / would be nice to be / can be improved here.
+
+* BlueGriffon 3.1
